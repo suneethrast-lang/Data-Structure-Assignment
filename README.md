@@ -1,8 +1,11 @@
 # Data-Structure-Assignment
 
 NAME-->ST Suneethra
+
 ROLL NUMBER-->250200233
+
 COURSE NAME--> Data Structures and Algorithms
+
 ASSIGNMENT DESCRIPTION-->
 This assignment focuses on implementing and applying the Stack and Queue data structures in C.
 
